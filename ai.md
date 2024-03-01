@@ -2,7 +2,7 @@
 
 Artificial Intelligence (AI) is a field of computer science that aims to create machines capable of intelligent behavior. The concept of AI has a long and rich history, dating back to ancient times. Let's explore the key milestones in the development of AI, from its inception to its current state.
 
-![](/assets/history-of-artificial-intelligence.jpg)
+![](assets/history-of-artificial-intelligence.jpg)
 
 
 ## Early Beginnings ##
