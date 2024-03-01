@@ -24,6 +24,6 @@ Moore's Law and the Future of CPUs
 
 Moore's Law, formulated by Intel co-founder Gordon Moore in 1965, states that the number of transistors on a chip doubles approximately every two years. This law has held true for several decades, driving the rapid advancement of CPUs. However, as transistors approach atomic scale, researchers are exploring new technologies such as quantum computing and neuromorphic computing to continue the growth of computing power.
 
-## Conclusion ##
+ Conclusion 
 
 CPUs and transistors are fundamental to modern computing, enabling the digital revolution that has transformed society. As technology continues to evolve, so too will CPUs and transistors, ushering in a new era of innovation and discovery in the world of computing.

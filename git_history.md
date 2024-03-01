@@ -1,6 +1,6 @@
 # History fo GitHub #
 
-### The Evolution of Git and GitHub: Revolutionizing Version Control ###
+The Evolution of Git and GitHub: Revolutionizing Version Control 
 
 In the world of software development, version control is a critical aspect that ensures the integrity and collaboration of code. Git and GitHub have revolutionized version control, providing developers with powerful tools to manage codebases efficiently. Let's delve into the history of Git and GitHub, tracing their evolution and impact on the software development landscape.
 

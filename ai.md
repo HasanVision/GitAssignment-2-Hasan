@@ -2,14 +2,14 @@
 
 Artificial Intelligence (AI) is a field of computer science that aims to create machines capable of intelligent behavior. The concept of AI has a long and rich history, dating back to ancient times. Let's explore the key milestones in the development of AI, from its inception to its current state.
 
-![](history-of-artificial-intelligence.jpg)
+![](/assets/history-of-artificial-intelligence.jpg)
 
 
 ## Early Beginnings ##
 
 The idea of artificial beings with human-like intelligence can be traced back to ancient mythology and folklore. However, the formal study of AI began in the mid-20th century. In 1956, the term "Artificial Intelligence" was coined at the Dartmouth Summer Research Project on Artificial Intelligence, where researchers gathered to discuss how machines could simulate human intelligence.
 
-![](ai-development-timeline.png)
+![](assets/ai-development-timeline.png)
 
 ## The Early Years: Symbolic AI ##
 
@@ -35,5 +35,5 @@ Looking ahead, the future of AI holds great promise. AI has the potential to tra
 
 **In conclusion**, the history of AI is a story of innovation and progress. From its early beginnings to its current state, AI has evolved into a powerful technology with the potential to shape the future of humanity. As we continue to explore the possibilities of AI, it is essential to approach its development with caution and foresight, ensuring that AI benefits society as a whole.**
 
-![](ai_future_of_work.png)
+![](assets/ai_future_of_work.png)
 
